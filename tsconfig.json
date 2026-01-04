@@ -1,0 +1,23 @@
+{
+    "files": [],
+    "references": [
+        {
+            "path": "./packages/domain"
+        },
+        {
+            "path": "./packages/events"
+        },
+        {
+            "path": "./packages/engine-core"
+        },
+        {
+            "path": "./packages/rules"
+        },
+        {
+            "path": "./packages/adapters"
+        },
+        {
+            "path": "./packages/sdk"
+        }
+    ]
+}
