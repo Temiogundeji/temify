@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":""}
+{"version":3,"sources":["../src/index.ts"],"names":[],"mappings":";;;AAKO,IAAM,OAAA,GAAU","file":"index.js","sourcesContent":["/**\n * @temify/adapters\n * State persistence adapters (in-memory, etc.)\n */\n\nexport const version = '0.0.0';\n"]}
