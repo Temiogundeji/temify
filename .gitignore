@@ -45,3 +45,13 @@ yarn-error.log*
 
 temp/
 tmp/
+
+AGENT_CONTEXT.md
+ARCHITECTURE.md
+
+# ESLint cache
+.eslintcache
+
+# Changesets
+.changeset/*.md
+!.changeset/README.md

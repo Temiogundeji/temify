@@ -1,7 +1,7 @@
 {
-  "name": "@temify/adapters",
+  "name": "@temify/metrics",
   "version": "0.0.0",
-  "description": "State persistence adapters (in-memory, etc.)",
+  "description": "Points, XP, and multi-currency metric system",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

@@ -1,7 +1,7 @@
 {
-  "name": "@temify/adapters",
+  "name": "@temify/streaks",
   "version": "0.0.0",
-  "description": "State persistence adapters (in-memory, etc.)",
+  "description": "Streak tracking with timezone-aware check-ins",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

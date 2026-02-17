@@ -7,10 +7,24 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "tsc -b"
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "dev": "turbo run dev",
+    "clean": "turbo run clean && rm -rf node_modules/.cache"
   },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "@changesets/cli": "^2.29.8",
+    "@typescript-eslint/eslint-plugin": "^8.56.0",
+    "@typescript-eslint/parser": "^8.56.0",
+    "@vitest/coverage-v8": "^4.0.18",
+    "eslint": "^10.0.0",
+    "prettier": "^3.8.1",
+    "tsup": "^8.5.1",
+    "turbo": "^2.8.9",
+    "typescript": "^5.0.0",
+    "vitest": "^4.0.18"
   },
   "license": "MIT"
 }

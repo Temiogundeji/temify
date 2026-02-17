@@ -1,7 +1,7 @@
 {
-  "name": "@temify/adapters",
+  "name": "@temify/core",
   "version": "0.0.0",
-  "description": "State persistence adapters (in-memory, etc.)",
+  "description": "Headless gamification engine core infrastructure",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

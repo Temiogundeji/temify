@@ -1,7 +1,7 @@
 {
-  "name": "@temify/adapters",
+  "name": "@temify/quests",
   "version": "0.0.0",
-  "description": "State persistence adapters (in-memory, etc.)",
+  "description": "Quest/mission lifecycle and objective management",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
